@@ -1,2 +1,2 @@
-# prints exactly "Programming is like building a multilingual puzzle
-print('"Programming is like building a multilingual puzzle')
+# print exact text
+print('"Programming is like building a multilingual puzzle\n')
